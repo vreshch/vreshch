@@ -2,10 +2,9 @@
 
 I love to make code that changes the lives of millions of people. As a Senior Software Engineer at Microsoft, I'm passionate about building innovative solutions with meaningful impact.
 
-- 🚀 **Own Project**: Launching innovative LLM/MCP integration platform
-<img align="right" width="150" height="150" src="https://github.com/vreshch/vreshch/blob/master/images/labtocat.png">
+- 🚀 **Own Project**: Launching innovative LLM/MCP integration platform    
 - 🛠️ **Stack**: NodeJS, React, C#, Clouds
-- 🎓 **Background**: MS in Computer Science, Ph.D. in Chemistry
+- 🎓 **Background**: MS in Computer Science, Ph.D. in Chemistry  <img align="right" width="150" height="150" src="https://github.com/vreshch/vreshch/blob/master/images/labtocat.png">
 
 ### 🌍 Find me on the web: 
 
