@@ -4,7 +4,7 @@ I love to make code that changes the lives of millions of people. As a Senior So
 
 - 🚀 **Own Project**: Launching innovative LLM/MCP integration platform    
 - 🛠️ **Stack**: NodeJS, React, C#, Clouds
-- 🎓 **Background**: MS in Computer Science, Ph.D. in Chemistry  <img align="right" width="150" height="150" src="https://github.com/vreshch/vreshch/blob/master/images/labtocat.png">
+- 🎓 **Background**: MS in Computer Science, Ph.D.  <img align="right" width="150" height="150" src="https://github.com/vreshch/vreshch/blob/master/images/labtocat.png">
 
 ### 🌍 Find me on the web: 
 
